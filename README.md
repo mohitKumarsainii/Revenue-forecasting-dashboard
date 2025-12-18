@@ -41,7 +41,7 @@ This dashboard provides a clear snapshot of Olist's thriving e-commerce platform
 - **Daily Revenue**
   "The line chart for daily revenue shows fluctuations with significant spikes, highlighting key sales events or promotions. For example, a notable peak at $178K is visible, showcasing an exceptional sales day, likely corresponding to the Black Friday sales event."
   
-![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
+![Sales Dashboard](https://github.com/mohitKumarsainii/Revenue-forecasting-dashboard/blob/92b8d8ee3129864d6eab9102f70aaa12c22c27fe/Power%20BI/Sales%20Dashboard.jpg)
 
 For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 ## Logistics Dashboard
@@ -55,7 +55,7 @@ This logistics overview highlights our platform's extensive reach, efficient ord
   "Punctuality is a key performance indicator for our logistics team. We are proud to report that 92.11% of orders were delivered on time, with only 7.89% arriving late. This high rate of on-time delivery underlines our commitment to reliability and customer satisfaction."
 
 
-![Logistics Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/da5f077a-37a2-46a8-ba3e-2b53e24c9f13)
+![Logistics Dashboard](https://github.com/mohitKumarsainii/Revenue-forecasting-dashboard/blob/92b8d8ee3129864d6eab9102f70aaa12c22c27fe/Power%20BI/Logistics%20Dashboard.jpg)
 
 For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 
@@ -70,7 +70,7 @@ The data from our dashboard reveals a clear correlation between high customer ra
 
 
 
-![Customer Satisfaction ](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/7b727fcd-dbe3-4b6e-9648-5636c4b93001)
+![Customer Satisfaction ](Power BI/Customer Satisfaction .jpg)
 
 For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 
